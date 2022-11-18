@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: graalkejne
+netty:
+  default:
+    allocator:
+      max-order: 3
